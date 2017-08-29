@@ -1,5 +1,4 @@
-# Ali's first program!
-# Zachary Patterson: 18 August 2015
+# DCE-Inconsistency-Detection by Ali Rezaei
 
 
 import csv
