@@ -1,7 +1,3 @@
-# Ali's first program!
-# Zachary Patterson: 18 August 2015
-
-
 import csv
 import datetime
 # Can also import reader like this...
